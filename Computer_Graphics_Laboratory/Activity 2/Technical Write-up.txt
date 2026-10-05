@@ -1,0 +1,2 @@
+﻿ACTIVITY 2: Interactive Game Architecture: Game Loop & Sprite Collision
+This activity demonstrates a basic Pygame game loop with sprites and collision detection. I created a player, obstacles, health, score, and particle effects.

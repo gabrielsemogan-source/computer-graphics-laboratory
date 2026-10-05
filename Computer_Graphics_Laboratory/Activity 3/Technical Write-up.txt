@@ -1,0 +1,2 @@
+﻿ACTIVITY 3: 3D Coordinate Geometry & Spatial Bounding Volumes
+This activity demonstrates 3D coordinate geometry and collision detection. I implemented Point3D, Sphere3D, and AABB calculations and tested multiple 3D objects.

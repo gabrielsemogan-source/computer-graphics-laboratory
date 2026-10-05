@@ -1,0 +1,2 @@
+﻿ACTIVITY 4: 3D Projection Engine
+This activity demonstrates 3D projections using Pygame. I implemented Orthographic, Cavalier, Cabinet, and Perspective projections with real-time rotation.

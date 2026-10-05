@@ -1,0 +1,2 @@
+﻿ACTIVITY 1: 2D Animation Principles & Kinematics Engine
+This activity demonstrates 2D animation using Pygame. I implemented tweening, shape morphing, and a bouncing ball using interpolation, gravity, and velocity.

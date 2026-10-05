@@ -1,0 +1,2 @@
+﻿ACTIVITY 5: Hardware Graphics Pipeline & Shading with PyOpenGL
+This activity demonstrates the OpenGL graphics pipeline using PyOpenGL. I created a colored 3D cube, applied transformations, depth testing, and transparent polygons.
